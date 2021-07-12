@@ -1,9 +1,10 @@
 import React from "react";
 import Header from "./Header";
 import TicketControl from "./TicketControl";
+import './../App.css'
 
-function App(){
-  return ( 
+function App() {
+  return (
     <React.Fragment>
       <Header />
       <TicketControl />

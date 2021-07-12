@@ -1,0 +1,7 @@
+body {
+  margin: 30px;
+  background: linear-gradient(rgb(84, 84, 255), pink);
+  background-attachment: fixed;
+  height: 100%;
+  color: white;
+}
